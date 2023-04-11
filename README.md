@@ -2,7 +2,7 @@
 
 A game developed in assembly to play bulls and cows against a computer.
 
-This is the link for the project book - https://drive.google.com/file/d/1K_LcpZCV9hYvujIR98hF3AEh47jLJPfc/view?usp=sharing
+This is the link for the project book - https://docs.google.com/document/d/1JpDDn6RA-HyxkhnY2WCj2-o1UTY-qSn_/edit?usp=sharing&ouid=116528611868542702089&rtpof=true&sd=true
 
 To play you need to download DOSBox Portable and Assembly.
 Then you will have to follow these steps:
